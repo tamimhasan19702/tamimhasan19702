@@ -1,5 +1,5 @@
                          
-<h1 align = "center">Hello there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="30"> This is <a href="https://tamimhasan19702.github.io/portfolio/" target="blank">Tamim(Tareq)</a></h1>
+<h1 align = "center">Hello there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px" height="50"> This is <a href="https://tamimhasan19702.github.io/portfolio/" target="blank">Tamim(Tareq)</a></h1>
       
 <h3 align="center">A self-taught WordPress and front-end web-developer and aspiring to be a marn stack developer in near future, working as a part time freelancer in fiverr and keen to learn more in future</h3>
 
