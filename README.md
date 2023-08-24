@@ -3,7 +3,7 @@
 
 <div align="center">  
 
-   😎 A self-taught WordPress and front-end web-developer and aspiring to be a mern stack developer in near future <br>
+  😎 A self-taught WordPress and front-end web-developer and aspiring to be a mern stack developer in near future <br>
   🔭 I’m currently working as a freelancer in Fiverr and PeoplePerHour <br>
   👯 I’m looking to collaborate on frontend React, TypeScript or Open Source projects<br>
   🌱 I’m currently learning Nodejs, Express Js, MongoDB and NEXTJS<br>
