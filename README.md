@@ -5,7 +5,7 @@
 <div align="center">  
 
   😎 A self-taught WordPress and front-end web-developer and aspiring to be a mern stack developer in near future <br>
-  🔭 I’m currently working as a freelancer in <a href="https://www.fiverr.com/tareqmonower" target="">FIVERR</a> and <a href="https://www.pph.me/Tareq_Monower_21" target="">PeoplePerHour</a> <br>
+  🔭 I’m currently working as a freelancer in <a href="https://www.fiverr.com/tareqmonower" target="">FIVERR</a> and <a href="https://www.peopleperhour.com/freelancer/technology-programming/tareq-monower-professional-wordpress-and-front-nvjvqzw" target="">PeoplePerHour</a> <br>
   👯 I’m looking to collaborate on frontend React, TypeScript or Open Source projects<br>
   🌱 I’m currently learning Nodejs, Express Js, MongoDB and NEXTJS<br>
   ⚡ Fun fact I am Electrical Engineering Student but following my passion to become better full stack developer
