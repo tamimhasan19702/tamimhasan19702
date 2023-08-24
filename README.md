@@ -13,6 +13,7 @@
   🌱 I’m currently learning Nodejs, Express Js, MongoDB and NEXTJS<br>
   ⚡ Fun fact I am Electrical Engineering Student but following my passion to become better full stack developer
 
+[![](https://visitcount.itsvg.in/api?id=tamimhasan19702&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -30,7 +31,6 @@
 </div>
 
 
-[![](https://visitcount.itsvg.in/api?id=tamimhasan19702&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>      
 
