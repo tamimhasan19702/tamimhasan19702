@@ -3,11 +3,16 @@
 
 <div align="center">  
 # 💫 About Me:
+ <br> 
 A self-taught WordPress and front-end web-developer and aspiring to be a mern stack developer in near future <br>
   🔭 I’m currently working as a freelancer in Fiverr and PeoplePerHour <br>
   👯 I’m looking to collaborate on frontend React, TypeScript or Open Source projects<br>
   🌱 I’m currently learning Nodejs, Express Js, MongoDB and NEXTJS<br>
   ⚡ Fun fact I am Electrical Engineering Student but following my passion to become better full stack developer
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
   ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mimat#9408) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tareqmonowertamim) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tamimhasan0170) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tareq-monower-tamim) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/tareqmonower21/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/13411201/tamimhasan) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/tamimian1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/tamimha58971058) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@mimat6847) 
@@ -19,8 +24,6 @@ A self-taught WordPress and front-end web-developer and aspiring to be a mern st
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tamimhasan19702&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tamimhasan19702&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tamimhasan19702&limit=5&theme=dark&combine_all_yearly_contributions=true)
