@@ -1,10 +1,11 @@
                          
 <h1 align = "center">Hello there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px" height="50"> This is <a href="https://tamimhasan19702.github.io/portfolio/" target="blank">Tamim(Tareq)</a></h1>
 
+
 <div align="center">  
 
   😎 A self-taught WordPress and front-end web-developer and aspiring to be a mern stack developer in near future <br>
-  🔭 I’m currently working as a freelancer in #Fiverr(https://www.fiverr.com/tareqmonower) and PeoplePerHour <br>
+  🔭 I’m currently working as a freelancer in <a href="https://www.fiverr.com/tareqmonower" target="">FIVERR</a> and <a href="pph.me/Tareq_Monower_21" target="">PeoplePerHour</a> <br>
   👯 I’m looking to collaborate on frontend React, TypeScript or Open Source projects<br>
   🌱 I’m currently learning Nodejs, Express Js, MongoDB and NEXTJS<br>
   ⚡ Fun fact I am Electrical Engineering Student but following my passion to become better full stack developer
