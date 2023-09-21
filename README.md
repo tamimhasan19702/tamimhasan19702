@@ -1,7 +1,10 @@
 <div>
-<h1 >Hello there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px" height="50"> This is <a href="https://tamimhasan19702.github.io/portfolio/" target=" ">Tamim(Tareq)</a></h1>
 
-  
+
+
+
+<a href="https://drive.google.com/file/d/17bBzg1lFtdN3SH8Vcnq-V6y_hQAtxdqu/view?usp=sharing" target="">DOWNLOAD CV 🗄</a>
+
 </div>
   
 
